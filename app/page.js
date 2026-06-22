@@ -48,7 +48,7 @@ export default function Home() {
               className="text-sm font-semibold"
               style={{ color: "var(--gray-700)" }}
             >
-              Email
+              Email(You can use : ayush@gmail.com)
             </label>
             <input
               id="email"
@@ -66,7 +66,7 @@ export default function Home() {
               className="text-sm font-semibold"
               style={{ color: "var(--gray-700)" }}
             >
-              Password
+              Password(You can use 1234)
             </label>
             <input
               id="password"
