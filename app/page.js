@@ -66,7 +66,7 @@ export default function Home() {
               className="text-sm font-semibold"
               style={{ color: "var(--gray-700)" }}
             >
-              Password(You can use 1234)
+              Password(You can use : 1234)
             </label>
             <input
               id="password"
